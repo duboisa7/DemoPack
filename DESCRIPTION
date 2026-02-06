@@ -13,3 +13,5 @@ Imports:
     dplyr,
     rlang,
     stringr
+URL: https://github.com/duboisa7/DemoPack
+BugReports: https://github.com/duboisa7/DemoPack/issues
